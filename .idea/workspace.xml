@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbe0b896-5dd9-4dc6-986e-1e7f727a37ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Linear-Search/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/.idea/Linear-Search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/.cmake/api/v1/reply/cache-v2-8a1790f1c9858ccca725.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-09a9dc9487a61069ee57.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f814626fad4bf8b8d5d9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/.cmake/api/v1/reply/index-2024-12-22T12-10-56-0522.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/.cmake/api/v1/reply/target-Linear_Search-Debug-4e0c9331b441bbf68686.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-2f427dcd6919a7ef66e5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/3.30.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/3.30.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear-Search/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2qZV7irOf8c68G5gzS9nYJChvDi" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/loganbriggs",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-d297c17c1fbd-b87a2f8923ed-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-243.21565.208" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-GO-243.21565.208" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
